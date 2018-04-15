@@ -1,3 +1,0 @@
-RewriteEngine on
-RewriteRule ^feed.rss$ rss.php
-RewriteRule ^api.json$ api.php
