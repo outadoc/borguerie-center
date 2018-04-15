@@ -18,7 +18,7 @@
 */
 
 header("Content-Type:text/xml");
-echo '<rss version="2.0" encoding="iso-8859-1">';
+echo '<rss version="2.0" encoding="utf-8">';
 echo("<channel>
 	<title>Borguerie Center</title>
 	<link>http://borguerie.outadoc.fr/</link>
